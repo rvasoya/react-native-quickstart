@@ -1,0 +1,1 @@
+just a simple bolierplate with basic structure to start project in react-native.
